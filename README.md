@@ -1,8 +1,5 @@
 # 👨‍💻 Hey 👋🏽, I'm Carlos Alberto!
 ![Card](https://user-images.githubusercontent.com/45578241/218528177-0f0f1ccb-c987-46bc-aca7-cc394f5c81f6.png)
-<a href="http://linkedin.com/in/carlos-alberto-m">
-  <img align="left" alt="Carlos Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <br />
 <br />
 
