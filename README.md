@@ -7,14 +7,14 @@ Soy especialista en el desarrollo de Software. Sin duda, me siento muy afortunad
 He trabajado en proyectos de todo tipo: desde diseño de software de visión artificial, desarrollo de sistemas de cobranza hasta proyectos de carácter nacional. 
 Domino herramientas dentro de todos estos ámbitos y me apasiona darle soluciones creativas a los problemas.
 
-- 🔭 I’m currently working on asasasas 
-- 🌱 I’m currently learning asasasas 
-- 👯 I’m looking to collaborate on asas 
-- 💬 Ask me about asas 
+- 🔭 I’m currently working on Grupo Salinas 
+- 🌱 I’m currently learning event Driven 
+- 👯 I’m looking to collaborate on New projects of vision artificial 
 
 **Languages** 
 <br />
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -34,3 +34,9 @@ Domino herramientas dentro de todos estos ámbitos y me apasiona darle solucione
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+**Sistema operativo**
+<br/>
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
