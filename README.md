@@ -13,6 +13,7 @@ Domino herramientas dentro de todos estos ámbitos y me apasiona darle solucione
 - 💬 Ask me about asas 
 
 **Languages** 
+<br />
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
