@@ -3,9 +3,7 @@
 <br />
 <br />
 **You can find me**   
-<a href="https://www.linkedin.com/in/carlos-alberto-m">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alberto-m)
 <br />
 
 Soy especialista en el desarrollo de Software. Sin duda, me siento muy afortunado de trabajar en lo que me apasiona.
