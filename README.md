@@ -1,5 +1,5 @@
 # 👨‍💻 Hey 👋🏽, I'm Carlos Alberto!
-![Card](https://user-images.githubusercontent.com/45578241/218528177-0f0f1ccb-c987-46bc-aca7-cc394f5c81f6.png)
+![Agregar un título](https://user-images.githubusercontent.com/45578241/219723266-249bfb25-0bbd-4d32-94cd-9db831207a8a.png)
 <br />
 <br />
 **You can find me**   
