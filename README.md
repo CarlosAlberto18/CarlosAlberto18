@@ -6,9 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alberto-m)
 <br />
 
-Soy especialista en el desarrollo de Software. Sin duda, me siento muy afortunado de trabajar en lo que me apasiona.
-He trabajado en proyectos de todo tipo: desde diseño de software de visión artificial, desarrollo de sistemas de cobranza hasta proyectos de carácter nacional. 
-Domino herramientas dentro de todos estos ámbitos y me apasiona darle soluciones creativas a los problemas.
+ I'm a specialist in software development. Without a doubt, I feel very fortunate to work in what I am passionate about. I have worked on projects of all kinds: from computer vision software design, and development of collection systems to projects of a national nature. I master tools in all these areas and I am passionate about giving creative solutions to problems.
 
 - 🔭 I’m currently working on Grupo Salinas 
 - 🌱 I’m currently learning event Driven 
